@@ -24,8 +24,10 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 ---
 
 ## 📊 Dashboard Overview
-- **Demonstration Video:** [AtliQ Hardware Analysis Video](https://www.linkedin.com/posts/bkshblon_powerbi-dataanalytics-businessintelligence-activity-7311948052099973120-cN5T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_t6QUBKwrgFInRbBtd2M0Ms3-1UoDCEhg)
+- **Demonstration Presentation Video:** [AtliQ Hardware Analysis Video](https://www.linkedin.com/posts/bkshblon_powerbi-dataanalytics-businessintelligence-activity-7311948052099973120-cN5T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_t6QUBKwrgFInRbBtd2M0Ms3-1UoDCEhg)
 - **Live Dashboard:** [AtliQ Hardware Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhMTQ5NTctZTdiYi00YTRmLTgwYWItN2Q5NDUxOWY3ZjhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **Dashboard Home Page:**![Dashboard Home_Page](https://github.com/user-attachments/assets/40153019-095b-4734-8ee1-f65e34f88fce)
+
 ### 1. Finance View
 
 - **📌 Objective:** 
@@ -34,6 +36,9 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **🎯 Key Features:**
   - Interactive filters for granular analysis of financial performance.
   - Dynamic insights into profitability trends across various business dimensions.
+  - **Finance View:** ![Finance View](https://github.com/user-attachments/assets/e6c634fe-c6c3-43c2-a404-a5160ff6223a)
+
+
 
 ### 2. Sales View
 
@@ -43,6 +48,8 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **🎯 Key Features:**
   - Drill-down capabilities to explore sales performance at different levels.
   - Identification of key growth opportunities and underperforming areas.
+- **Sales View:** ![Sales View](https://github.com/user-attachments/assets/7f968212-66e8-4d6f-9e9b-e2b3ff119187)
+
 
 ### 3. Marketing View
 
@@ -52,6 +59,8 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **🎯 Key Features:**
   - Insights into product positioning and its impact on profitability.
   - Track marketing ROI and identify successful campaigns.
+- **Marketing View:** ![Marketing View](https://github.com/user-attachments/assets/27f25294-e60a-4dc4-8af2-349527e23240)
+
 
 ### 4. Supply Chain View
 
@@ -61,6 +70,8 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **🎯 Key Features:**
   - Visualizations to assess the effectiveness of supply chain forecasting.
   - Insights into risk areas for proactive management.
+  - **Supply Chain View:** ![Supply Chain View](https://github.com/user-attachments/assets/ad7c0b87-5d09-4d74-b82c-809966135de8)
+
 
 ### 5. Executive View
 
@@ -70,6 +81,8 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **🎯 Key Features:**
   - High-level metrics and KPIs for quick decision-making.
   - Executive-friendly visualizations to track company performance.
+  - **Executive View:** ![Executive View](https://github.com/user-attachments/assets/b9bb4f97-7e3d-419e-9768-96757c777da0)
+
 
 ---
 
