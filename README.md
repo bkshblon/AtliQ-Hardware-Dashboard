@@ -25,6 +25,7 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 
 ## 📊 Dashboard Overview
 - **Demonstration Video:** [AtliQ Hardware Analysis Video](https://www.linkedin.com/posts/bkshblon_powerbi-dataanalytics-businessintelligence-activity-7311948052099973120-cN5T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC_t6QUBKwrgFInRbBtd2M0Ms3-1UoDCEhg)
+- **Live Dashboard:** [AtliQ Hardware Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjJhMTQ5NTctZTdiYi00YTRmLTgwYWItN2Q5NDUxOWY3ZjhlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ### 1. Finance View
 
 - **📌 Objective:** 
