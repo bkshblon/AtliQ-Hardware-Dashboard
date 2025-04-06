@@ -15,6 +15,7 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - 🧰 Tools & Techniques
   - Power BI Features Utilized
   - DAX Formulas & Data Modeling
+  - SQL
   - ETL & Data Transformation
 - 📑 Key Learnings & Skills
   - Data Visualization
@@ -100,6 +101,11 @@ Welcome to my repository! 🎉 This repository showcases the **AtliQ Hardware Da
 - **Time Intelligence:** Used advanced DAX functions to perform **Year-over-Year (YoY)** analysis and track key business trends.
 - **Dynamic Calculations:** Developed custom metrics such as **Net Margin** and **Gross Profit** using DAX.
 - **Data Relationships:** Built scalable, efficient data models to connect sales, marketing, finance, and supply chain data.
+
+### SQL
+
+- **Optimized Joins:** Efficiently connected fact and dimension tables to support business intelligence analysis.
+- **Data Extraction:** Helps extract data from fact and dimension tables, ensuring smooth integration, optimized joins, and efficient query performance.
 
 ### ETL & Data Transformation
 
